@@ -1,0 +1,216 @@
+﻿sl_no,gender,ssc_p,ssc_b,hsc_p,hsc_b,hsc_s,degree_p,degree_t,workex,logical resoning_p,specialisation,spc_p,status,salary
+221FA04001,M,67,Others,91,Others,Maths,58,Btech,No,55,c++,58.8,Placed,270000
+221FA04002,M,79.33,Central,78.33,Others,Maths,77.48,Btech,Yes,86.5,c++,66.28,Placed,200000
+221FA04003,M,65,Central,68,Central,Maths,64,Btech,No,75,python,57.8,Placed,250000
+221FA04004,M,56,Central,52,Central,Maths,52,Btech,No,66,frontend,59.43,Not Placed,
+221FA04005,M,85.8,Central,73.6,Central,Maths,73.3,Btech,No,96.8,java,55.5,Placed,425000
+221FA04006,M,55,Others,49.8,Others,Maths,67.25,Btech,Yes,55,javafullstack,51.58,Not Placed,
+221FA04007,F,46,Others,49.2,Others,science,79,Btech,No,74.28,pythonfullstack,53.29,Not Placed,
+221FA04008,M,82,Central,64,Central,Maths,66,Btech,Yes,67,mernstack,62.14,Placed,252000
+221FA04009,M,73,Central,79,Central,Maths,72,Btech,No,91.34,python,61.29,Placed,231000
+221FA04010,M,58,Central,70,Central,Maths,61,Btech,No,54,frontend,52.21,Not Placed,
+221FA04011,M,58,Central,61,Central,Maths,60,Btech,Yes,62,java,60.85,Placed,260000
+221FA04012,M,69.6,Central,68.4,Central,Maths,78.3,Btech,Yes,60,javafullstack,63.7,Placed,250000
+221FA04013,F,47,Central,55,Others,science,65,Btech,No,62,pythonfullstack,65.04,Not Placed,
+221FA04014,F,77,Central,87,Central,Maths,59,Btech,No,68,mernstack,68.63,Placed,218000
+221FA04015,M,62,Central,47,Central,Maths,50,Btech,No,76,c++,54.96,Not Placed,
+221FA04016,F,65,Central,75,Central,science,69,Btech,Yes,72,c++,64.66,Placed,200000
+221FA04017,M,63,Central,66.2,Central,Maths,65.6,Btech,Yes,60,python,62.54,Placed,300000
+221FA04018,F,55,Central,67,Central,Maths,64,Btech,No,60,c++,67.28,Not Placed,
+221FA04019,F,63,Central,66,Central,Maths,64,Btech,No,68,c++,64.08,Not Placed,
+221FA04020,M,60,Others,67,Others,Maths,70,Btech,Yes,50.48,python,77.89,Placed,236000
+221FA04021,M,62,Others,65,Others,Maths,66,Btech,No,50,frontend,56.7,Placed,265000
+221FA04022,F,79,Others,76,Others,Maths,85,Btech,No,95,java,69.06,Placed,393000
+221FA04023,F,69.8,Others,60.8,Others,Maths,72.23,Btech,No,55.53,javafullstack,68.81,Placed,360000
+221FA04024,F,77.4,Others,60,Others,Maths,64.74,Btech,Yes,92,pythonfullstack,63.62,Placed,300000
+221FA04025,M,76.5,Others,97.7,Others,Maths,78.86,Btech,No,97.4,mernstack,74.01,Placed,360000
+221FA04026,F,52.58,Others,54.6,Central,Maths,50.2,Btech,Yes,76,python,65.33,Not Placed,
+221FA04027,M,71,Others,79,Others,science,66,Btech,Yes,94,frontend,57.55,Placed,240000
+221FA04028,M,63,Others,67,Others,Maths,66,Btech,No,68,java,57.69,Placed,265000
+221FA04029,M,76.76,Others,76.5,Others,Maths,67.5,Btech,Yes,73.35,javafullstack,64.15,Placed,350000
+221FA04030,M,62,Central,67,Central,Maths,58,Btech,No,77,pythonfullstack,51.29,Not Placed,
+221FA04031,F,64,Central,73.5,Central,Maths,73,Btech,No,52,mernstack,56.7,Placed,250000
+221FA04032,F,67,Central,53,Central,science,65,Btech,No,64,c++,58.32,Not Placed,
+221FA04033,F,61,Central,81,Central,Maths,66.4,Btech,No,50.89,python,62.21,Placed,278000
+221FA04034,F,87,Others,65,Others,Maths,81,Btech,Yes,88,c++,72.78,Placed,260000
+221FA04035,M,62,Others,51,Others,Maths,52,Btech,No,68.44,c++,62.77,Not Placed,
+221FA04036,F,69,Central,78,Central,Maths,72,Btech,No,71,python,62.74,Placed,300000
+221FA04037,M,51,Central,44,Central,Maths,57,Btech,No,64,frontend,51.45,Not Placed,
+221FA04038,F,79,Central,76,Central,Maths,65.6,Btech,No,58,java,55.47,Placed,320000
+221FA04039,F,73,Others,58,Others,Maths,66,Btech,No,53.7,javafullstack,56.86,Placed,240000
+221FA04040,M,81,Others,68,Others,Maths,64,Btech,No,93,pythonfullstack,62.56,Placed,411000
+221FA04041,F,78,Central,77,Others,Maths,80,Btech,No,60,mernstack,66.72,Placed,287000
+221FA04042,F,74,Others,63.16,Others,Maths,65,Btech,Yes,65,python,69.76,Not Placed,
+221FA04043,M,49,Others,39,Central,Maths,65,Btech,No,63,frontend,51.21,Not Placed,
+221FA04044,M,87,Others,87,Others,Maths,68,Btech,No,95,java,62.9,Placed,300000
+221FA04045,F,77,Others,73,Others,Maths,81,Btech,Yes,89,javafullstack,69.7,Placed,200000
+221FA04046,F,76,Central,64,Central,Maths,72,Btech,No,58,pythonfullstack,66.53,Not Placed,
+221FA04047,F,70.89,Others,71.98,Others,Maths,65.6,Btech,No,68,mernstack,71.63,Not Placed,
+221FA04048,M,63,Central,60,Central,Maths,57,Btech,Yes,78,c++,54.55,Placed,204000
+221FA04049,M,63,Others,62,Others,Maths,68,Btech,No,64,python,62.46,Placed,250000
+221FA04050,F,50,Others,37,Others,Maths,52,Btech,No,65,c++,56.11,Not Placed,
+221FA04051,F,75.2,Central,73.2,Central,Maths,68.4,Btech,No,65,c++,62.98,Placed,200000
+221FA04052,M,54.4,Central,61.12,Central,Maths,56.2,Btech,No,67,python,62.65,Not Placed,
+221FA04053,F,40.89,Others,45.83,Others,Maths,53,Btech,No,71.2,frontend,65.49,Not Placed,
+221FA04054,M,80,Others,70,Others,Maths,72,Btech,No,87,java,71.04,Placed,450000
+221FA04055,F,74,Central,60,Others,Maths,69,Btech,No,78,javafullstack,65.56,Placed,216000
+221FA04056,M,60.4,Central,66.6,Others,Maths,65,Btech,No,71,pythonfullstack,52.71,Placed,220000
+221FA04057,M,63,Others,71.4,Others,Maths,61.4,Btech,No,68,mernstack,66.88,Placed,240000
+221FA04058,M,68,Central,76,Central,Maths,74,Btech,No,80,python,63.59,Placed,360000
+221FA04059,M,74,Central,62,Others,Maths,68,Btech,No,74,frontend,57.99,Placed,268000
+221FA04060,M,52.6,Central,65.58,Others,Maths,72.11,Btech,No,57.6,java,56.66,Placed,265000
+221FA04061,M,74,Central,70,Central,Maths,72,Btech,Yes,60,javafullstack,57.24,Placed,260000
+221FA04062,M,84.2,Central,73.4,Central,Maths,66.89,Btech,No,61.6,pythonfullstack,62.48,Placed,300000
+221FA04063,F,86.5,Others,64.2,Others,Maths,67.4,Btech,No,59,mernstack,59.69,Placed,240000
+221FA04064,M,61,Others,70,Others,Maths,64,Btech,No,68.5,frontend,59.5,Not Placed,
+221FA04065,M,80,Others,73,Others,Maths,75,Btech,No,61,java,58.78,Placed,240000
+221FA04066,M,54,Others,47,Others,Maths,57,Btech,No,89.69,javafullstack,57.1,Not Placed,
+221FA04067,M,83,Others,74,Others,Maths,66,Btech,No,68.92,pythonfullstack,58.46,Placed,275000
+221FA04068,M,80.92,Others,78.5,Others,Maths,67,Btech,No,68.71,mernstack,60.99,Placed,275000
+221FA04069,F,69.7,Central,47,Central,Maths,72.7,Btech,No,79,python,59.24,Not Placed,
+221FA04070,M,73,Central,73,Central,Maths,66,Btech,Yes,70,frontend,68.07,Placed,275000
+221FA04071,M,82,Others,61,Others,Maths,62,Btech,No,89,java,65.45,Placed,360000
+221FA04072,M,75,Others,70.29,Others,Maths,71,Btech,No,95,javafullstack,66.94,Placed,240000
+221FA04073,M,84.86,Others,67,Others,Maths,78,Btech,No,95.5,pythonfullstack,68.53,Placed,240000
+221FA04074,M,64.6,Central,83.83,Others,Maths,71.72,Btech,No,86,mernstack,59.75,Placed,218000
+221FA04075,M,56.6,Central,64.8,Central,Maths,70.2,Btech,No,84.27,c,67.2,Placed,336000
+221FA04076,F,59,Central,62,Others,Maths,77.5,Btech,No,74,c++,67,Not Placed,
+221FA04077,F,66.5,Others,70.4,Central,Maths,71.93,Btech,No,61,python,64.27,Placed,230000
+221FA04078,M,64,Others,80,Others,Maths,65,Btech,Yes,69,c++,57.65,Placed,500000
+221FA04079,M,84,Others,90.9,Others,Maths,64.5,Btech,No,86.04,python,59.42,Placed,270000
+221FA04080,F,69,Central,62,Central,Maths,66,Btech,No,75,c++,67.99,Not Placed,
+221FA04081,F,69,Others,62,Others,Maths,69,Btech,Yes,67,c++,62.35,Placed,240000
+221FA04082,M,81.7,Others,63,Others,Maths,67,Btech,Yes,86,python,70.2,Placed,300000
+221FA04083,M,63,Central,67,Central,Maths,74,Btech,No,82,frontend,60.44,Not Placed,
+221FA04084,M,84,Others,79,Others,Maths,68,Btech,Yes,84,java,66.69,Placed,300000
+221FA04085,M,70,Central,63,Others,Maths,70,Btech,Yes,55,javafullstack,62,Placed,300000
+221FA04086,F,83.84,Others,89.83,Others,Maths,77.2,Btech,Yes,78.74,pythonfullstack,76.18,Placed,400000
+221FA04087,M,62,Others,63,Others,Maths,64,Btech,No,67,mernstack,57.03,Placed,220000
+221FA04088,M,59.6,Central,51,Central,Maths,60,Btech,No,75,python,59.08,Not Placed,
+221FA04089,F,66,Central,62,Central,Maths,73,Btech,No,58,frontend,64.36,Placed,210000
+221FA04090,F,84,Others,75,Others,Maths,69,Btech,Yes,62,java,62.36,Placed,210000
+221FA04091,F,85,Others,90,Others,Maths,82,Btech,No,92,javafullstack,68.03,Placed,300000
+221FA04092,M,52,Central,57,Central,Maths,50.8,Btech,No,67,pythonfullstack,62.79,Not Placed,
+221FA04093,F,60.23,Central,69,Central,Maths,66,Btech,No,72,mernstack,59.47,Placed,230000
+221FA04094,M,52,Central,62,Central,Maths,54,Btech,No,72,mernstack,55.41,Not Placed,
+221FA04095,M,58,Central,62,Central,Maths,64,Btech,No,53.88,python,54.97,Placed,260000
+221FA04096,M,73,Central,78,Others,Maths,65,Btech,Yes,95.46,frontend,62.16,Placed,420000
+221FA04097,F,76,Central,70,Central,Maths,76,Btech,Yes,66,java,64.44,Placed,300000
+221FA04098,F,70.5,Central,62.5,Others,Maths,61,Btech,No,93.91,javafullstack,69.03,Not Placed,
+221FA04099,F,69,Central,73,Central,Maths,65,Btech,No,70,pythonfullstack,57.31,Placed,220000
+221FA04100,M,54,Central,82,Others,Maths,63,Btech,No,50,mernstack,59.47,Not Placed,
+221FA04101,F,45,Others,57,Others,Maths,58,Btech,Yes,56.39,c,64.95,Not Placed,
+221FA04102,M,63,Central,72,Central,Maths,68,Btech,No,78,c++,60.44,Placed,380000
+221FA04103,F,77,Others,61,Others,Maths,68,Btech,Yes,57.5,python,61.31,Placed,300000
+221FA04104,M,73,Central,78,Central,Maths,73,Btech,Yes,85,c++,65.83,Placed,240000
+221FA04105,M,69,Central,63,Others,Maths,65,Btech,Yes,55,python,58.23,Placed,360000
+221FA04106,M,59,Central,64,Others,Maths,58,Btech,No,85,c++,55.3,Not Placed,
+221FA04107,M,61.08,Others,50,Others,Maths,54,Btech,No,71,c++,65.69,Not Placed,
+221FA04108,M,82,Others,90,Others,Maths,83,Btech,No,80,python,73.52,Placed,200000
+221FA04109,M,61,Central,82,Central,Maths,69,Btech,No,84,frontend,58.31,Placed,300000
+221FA04110,M,52,Central,63,Others,Maths,65,Btech,Yes,86,java,56.09,Not Placed,
+221FA04111,F,69.5,Central,70,Central,Maths,72,Btech,No,57.2,javafullstack,54.8,Placed,250000
+221FA04112,M,51,Others,54,Others,Maths,61,Btech,No,60,pythonfullstack,60.64,Not Placed,
+221FA04113,M,58,Others,61,Others,Maths,61,Btech,No,58,mernstack,53.94,Placed,250000
+221FA04114,F,73.96,Others,79,Others,Maths,67,Btech,No,72.15,python,63.08,Placed,280000
+221FA04115,M,65,Central,68,Others,Maths,69,Btech,No,53.7,frontend,55.01,Placed,250000
+221FA04116,F,73,Others,63,Others,Maths,66,Btech,No,89,java,60.5,Placed,216000
+221FA04117,M,68.2,Central,72.8,Central,Maths,66.6,Btech,Yes,96,javafullstack,70.85,Placed,300000
+221FA04118,M,77,Others,75,Others,Maths,73,Btech,No,80,pythonfullstack,67.05,Placed,240000
+221FA04119,M,76,Central,80,Central,Maths,78,Btech,Yes,97,mernstack,70.48,Placed,276000
+221FA04120,M,60.8,Central,68.4,Central,Maths,64.6,Btech,Yes,82.66,mernstack,64.34,Placed,940000
+221FA04121,M,58,Others,40,Others,Maths,59,Btech,No,73,python,58.81,Not Placed,
+221FA04122,F,64,Central,67,Others,Maths,69.6,Btech,Yes,55.67,frontend,71.49,Placed,250000
+221FA04123,F,66.5,Central,66.8,Central,Maths,69.3,Btech,Yes,80.4,java,71,Placed,236000
+221FA04124,M,74,Others,59,Others,Maths,73,Btech,Yes,60,javafullstack,56.7,Placed,240000
+221FA04125,M,67,Central,71,Central,Maths,64.33,Btech,Yes,64,pythonfullstack,61.26,Placed,250000
+221FA04126,F,84,Central,73,Central,Maths,73,Btech,No,75,mernstack,73.33,Placed,350000
+221FA04127,F,79,Others,61,Others,Maths,75.5,Btech,Yes,70,c,68.2,Placed,210000
+221FA04128,F,72,Others,60,Others,Maths,69,Btech,No,55.5,c++,58.4,Placed,250000
+221FA04129,M,80.4,Central,73.4,Central,Maths,77.72,Btech,Yes,81.2,python,76.26,Placed,400000
+221FA04130,M,76.7,Central,89.7,Others,Maths,66,Btech,Yes,90,c++,68.55,Placed,250000
+221FA04131,M,62,Central,65,Others,Maths,60,Btech,No,84,python,64.15,Not Placed,
+221FA04132,F,74.9,Others,57,Others,Maths,62,Btech,Yes,80,c++,60.78,Placed,360000
+221FA04133,M,67,Others,68,Others,Maths,64,Btech,Yes,74.4,c++,53.49,Placed,300000
+221FA04134,M,73,Central,64,Others,Maths,77,Btech,Yes,65,python,60.98,Placed,250000
+221FA04135,F,77.44,Central,92,Others,Maths,72,Btech,Yes,94,frontend,67.13,Placed,250000
+221FA04136,F,72,Central,56,Others,Maths,69,Btech,No,55.6,java,65.63,Placed,200000
+221FA04137,F,47,Central,59,Central,Maths,64,Btech,No,78,javafullstack,61.58,Not Placed,
+221FA04138,M,67,Others,63,Central,Maths,72,Btech,No,56,pythonfullstack,60.41,Placed,225000
+221FA04139,F,82,Others,64,Others,Maths,73,Btech,Yes,96,mernstack,71.77,Placed,250000
+221FA04140,M,77,Central,70,Central,Maths,59,Btech,Yes,58,python,54.43,Placed,220000
+221FA04141,M,65,Central,64.8,Others,Maths,69.5,Btech,Yes,56,frontend,56.94,Placed,265000
+221FA04142,M,66,Central,64,Central,Maths,60,Btech,No,60,java,61.9,Not Placed,
+221FA04143,M,85,Central,60,Others,Maths,73.43,Btech,Yes,60,javafullstack,61.29,Placed,260000
+221FA04144,M,77.67,Others,64.89,Others,Maths,70.67,Btech,No,89,pythonfullstack,60.39,Placed,300000
+221FA04145,M,52,Others,50,Others,Maths,61,Btech,No,60,mernstack,58.52,Not Placed,
+221FA04146,M,89.4,Others,65.66,Others,Maths,71.25,Btech,No,72,mernstack,63.23,Placed,400000
+221FA04147,M,62,Central,63,Others,Maths,66,Btech,No,85,python,55.14,Placed,233000
+221FA04148,M,70,Central,74,Central,Maths,65,Btech,No,83,frontend,62.28,Placed,300000
+221FA04149,F,77,Central,86,Central,Maths,56,Btech,No,57,java,64.08,Placed,240000
+221FA04150,M,44,Central,58,Central,Maths,55,Btech,Yes,64.25,javafullstack,58.54,Not Placed,
+221FA04151,M,71,Central,58.66,Central,Maths,58,Btech,Yes,56,pythonfullstack,61.3,Placed,690000
+221FA04152,M,65,Central,65,Central,Maths,75,Btech,No,83,mernstack,58.87,Placed,270000
+221FA04153,F,75.4,Others,60.5,Central,Maths,84,Btech,No,98,c,65.25,Placed,240000
+221FA04154,M,49,Others,59,Others,Maths,65,Btech,Yes,86,c++,62.48,Placed,340000
+221FA04155,M,53,Central,63,Others,Maths,60,Btech,Yes,70,python,53.2,Placed,250000
+221FA04156,M,51.57,Others,74.66,Others,Maths,59.9,Btech,Yes,56.15,c++,65.99,Not Placed,
+221FA04157,M,84.2,Central,69.4,Central,Maths,65,Btech,Yes,80,python,52.72,Placed,255000
+221FA04158,M,66.5,Central,62.5,Central,Maths,60.9,Btech,No,93.4,c++,55.03,Placed,300000
+221FA04159,M,67,Others,63,Others,Maths,64,Btech,No,60,c++,61.87,Not Placed,
+221FA04160,M,52,Central,49,Others,Maths,58,Btech,No,62,python,60.59,Not Placed,
+221FA04161,M,87,Central,74,Central,Maths,65,Btech,Yes,75,frontend,72.29,Placed,300000
+221FA04162,M,55.6,Others,51,Others,Maths,57.5,Btech,No,57.63,java,62.72,Not Placed,
+221FA04163,M,74.2,Central,87.6,Others,science,77.25,Btech,Yes,75.2,javafullstack,66.06,Placed,285000
+221FA04164,M,63,Others,67,Others,Maths,64,Btech,No,75,pythonfullstack,66.46,Placed,500000
+221FA04165,F,67.16,Central,72.5,Central,Maths,63.35,Btech,No,53.04,mernstack,65.52,Placed,250000
+221FA04166,F,63.3,Central,78.33,Others,Maths,74,Btech,No,80,python,74.56,Not Placed,
+221FA04167,M,62,Others,62,Others,Maths,60,Btech,Yes,63,frontend,52.38,Placed,240000
+221FA04168,M,67.9,Others,62,Others,Maths,67,Btech,Yes,58.1,java,75.71,Not Placed,
+221FA04169,F,48,Central,51,Central,Maths,58,Btech,Yes,60,javafullstack,58.79,Not Placed,
+221FA04170,M,59.96,Others,42.16,Others,Maths,61.26,Btech,No,54.48,pythonfullstack,65.48,Not Placed,
+221FA04171,F,63.4,Others,67.2,Others,Maths,60,Btech,No,58.06,mernstack,69.28,Not Placed,
+221FA04172,M,80,Others,80,Others,science,72,Btech,Yes,63.79,mernstack,66.04,Placed,290000
+221FA04173,M,73,Others,58,Others,Maths,56,Btech,No,84,python,52.64,Placed,300000
+221FA04174,F,52,Others,52,Others,Maths,55,Btech,No,67,frontend,59.32,Not Placed,
+221FA04175,M,73.24,Others,50.83,Others,Maths,64.27,Btech,Yes,64,java,66.23,Placed,500000
+221FA04176,M,63,Others,62,Others,Maths,65,Btech,No,87.5,javafullstack,60.69,Not Placed,
+221FA04177,F,59,Central,60,Others,Maths,56,Btech,No,55,pythonfullstack,57.9,Placed,220000
+221FA04178,F,73,Central,97,Others,Maths,79,Btech,Yes,89,mernstack,70.81,Placed,650000
+221FA04179,M,68,Others,56,Others,Maths,68,Btech,No,73,c,68.07,Placed,350000
+221FA04180,F,77.8,Central,64,Central,Maths,64.2,Btech,No,75.5,c++,72.14,Not Placed,
+221FA04181,M,65,Central,71.5,Others,Maths,62.8,Btech,Yes,57,python,56.6,Placed,265000
+221FA04182,M,62,Central,60.33,Others,Maths,64.21,Btech,No,63,c++,60.02,Not Placed,
+221FA04183,M,52,Others,65,Others,Maths,57,Btech,Yes,75,python,59.81,Not Placed,
+221FA04184,M,65,Central,77,Central,Maths,69,Btech,No,60,c++,61.82,Placed,276000
+221FA04185,F,56.28,Others,62.83,Others,Maths,59.79,Btech,No,60,c++,57.29,Not Placed,
+221FA04186,F,88,Central,72,Central,Maths,78,Btech,No,82,python,71.43,Placed,252000
+221FA04187,F,52,Central,64,Central,Maths,61,Btech,No,55,frontend,62.93,Not Placed,
+221FA04188,M,78.5,Central,65.5,Central,Maths,67,Btech,Yes,95,java,64.86,Placed,280000
+221FA04189,M,61.8,Others,47,Others,Maths,54.38,Btech,No,57,javafullstack,56.13,Not Placed,
+221FA04190,F,54,Central,77.6,Others,Maths,69.2,Btech,No,95.65,pythonfullstack,66.94,Not Placed,
+221FA04191,F,64,Others,70.2,Central,Maths,61,Btech,No,50,mernstack,62.5,Not Placed,
+221FA04192,M,67,Others,61,Central,Maths,72,Btech,No,72,python,61.01,Placed,264000
+221FA04193,M,65.2,Central,61.4,Central,Maths,64.8,Btech,Yes,93.4,frontend,57.34,Placed,270000
+221FA04194,F,60,Central,63,Central,Maths,56,Btech,Yes,80,java,56.63,Placed,300000
+221FA04195,M,52,Others,55,Others,Maths,56.3,Btech,No,59,javafullstack,64.74,Not Placed,
+221FA04196,M,66,Central,76,Central,Maths,72,Btech,Yes,84,pythonfullstack,58.95,Placed,275000
+221FA04197,M,72,Others,63,Others,Maths,77.5,Btech,Yes,78,mernstack,54.48,Placed,250000
+221FA04198,F,83.96,Others,53,Others,Maths,91,Btech,No,59.32,c++,69.71,Placed,260000
+221FA04199,F,67,Central,70,Central,Maths,65,Btech,No,88,c++,71.96,Not Placed,
+221FA04200,M,69,Others,65,Others,Maths,57,Btech,No,73,python,55.8,Placed,265000
+221FA04201,M,69,Others,60,Others,science,65,Btech,No,87.55,frontend,52.81,Placed,300000
+221FA04202,M,54.2,Central,63,Others,Maths,58,Btech,No,79,java,58.44,Not Placed,
+221FA04203,M,70,Central,63,Central,Maths,66,Btech,No,61.28,javafullstack,60.11,Placed,240000
+221FA04204,M,55.68,Others,61.33,Others,Maths,56.87,Btech,No,66,pythonfullstack,58.3,Placed,260000
+221FA04205,F,74,Others,73,Others,Maths,73,Btech,Yes,80,mernstack,67.69,Placed,210000
+221FA04206,M,61,Others,62,Others,Maths,65,Btech,No,62,python,56.81,Placed,250000
+221FA04207,M,41,Central,42,Central,Maths,60,Btech,No,97,frontend,53.39,Not Placed,
+221FA04208,M,83.33,Central,78,Others,Maths,61,Btech,Yes,88.56,java,71.55,Placed,300000
+221FA04209,F,43,Central,60,Others,Maths,65,Btech,No,92.66,javafullstack,62.92,Not Placed,
+221FA04210,M,62,Central,72,Central,Maths,65,Btech,No,67,pythonfullstack,56.49,Placed,216000
+221FA04211,M,80.6,Others,82,Others,Maths,77.6,Btech,No,91,mernstack,74.49,Placed,400000
+221FA04212,M,58,Others,60,Others,Maths,72,Btech,No,74,mernstack,53.62,Placed,275000
+221FA04213,M,67,Others,67,Others,Maths,73,Btech,Yes,59,python,69.72,Placed,295000
+221FA04214,F,74,Others,66,Others,Maths,58,Btech,No,70,frontend,60.23,Placed,204000
+221FA04215,M,62,Central,58,Others,science,53,Btech,No,89,java,60.22,Not Placed,
